@@ -51,7 +51,7 @@ Note that, for better security, you can alternatively use the [Secret Manager](h
 
 9. Enter **query_astra_db** in the **Entry point** field.
 
-11. Add [**AstraPy**](https://github.com/datastax/astrapy), a Pythonic SDK for DataStax Astra and Stargate, and its preferred version to the `requirements.txt` file.
+10. Add [**AstraPy**](https://github.com/datastax/astrapy), a Pythonic SDK for DataStax Astra and Stargate, and its preferred version to the `requirements.txt` file.
 
 <img src="img/requirements_txt.png" />
 
